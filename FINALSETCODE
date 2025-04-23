@@ -230,7 +230,7 @@ in_thread do
   end
 end
 
-
+define :interludesong2outro
 use_bpm 80
 
 #
@@ -751,3 +751,6 @@ in_thread do
   end
   
 End
+end
+introsong1
+interludesong2outro
