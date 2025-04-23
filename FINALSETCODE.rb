@@ -1,4 +1,4 @@
-define :introsong1 do
+define :introsong1 do 
   use_bpm 57
   use_synth :piano
   i=0.1
